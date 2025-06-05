@@ -3,7 +3,7 @@
 ## System Trading Platform
 
 Author: Mukeun Kim
-mukeunkim@gmail.com
+michael.kim.200518@gmail.com
 Copyright 2016 by Mukeun Kim
 All Rights Reserved
 
